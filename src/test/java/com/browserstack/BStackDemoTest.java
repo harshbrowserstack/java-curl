@@ -34,7 +34,7 @@ public class BStackDemoTest extends SeleniumTest {
     @Test
     public void loginToBStackDemo() throws Exception {
     	
-    	Reporter.log("[[PROPERTY|id=TC-1898]]\n", true);
+    	//Reporter.log("[[PROPERTY|id=TC-1898]]\n", true);
     	
     	// navigate to bstackdemo
         driver.get("https://www.bstackdemo.com");
