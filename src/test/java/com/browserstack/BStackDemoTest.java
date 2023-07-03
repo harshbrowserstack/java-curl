@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class BStackDemoTest extends SeleniumTest {
     @Test
-    public void visitBStackDemo() throws Exception {
+    public void add() throws Exception {
     	
 
         // navigate to bstackdemo
